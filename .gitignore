@@ -1,1 +1,2 @@
-/tree_venv
+/venv
+*__pycahce__*
